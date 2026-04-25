@@ -1,0 +1,12 @@
+*   fb71c91 po usunieciu konfliktu (edycja w notepad) pliku README.md
+|\  
+| * 27dfbb3 zmiana README.md na gałęzi test
+| * 2962f90 pliki log, ls ., status na gałęzi test
+* | 5e632fe modyfikacja README.md
+|/  
+* 36065c8 logi z historii rewizji
+* 00df8ab dodanie pliku wyniku diff
+* a1317b6 czwarty commit: dodanie README
+* c198d07 trzeci commit: po restore
+* e7a7d6b drugi commit dodano 2 pliki status (1 i 2)
+* 6ba7479 pierwszy commit: dodanie plików 'version' i 'idea'
