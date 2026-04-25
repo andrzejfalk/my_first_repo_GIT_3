@@ -1,0 +1,3 @@
+Zarządzanie zbiorem procedur (modyfikacje, aktualizacje)
+Procedury tworzone są przez zespół odpowiedzialnych za poszczególne obszary ludzi, zmiany powstają/są projektowane na oddzielnych gałęziach, które łączymy w jeden wspólny
+zbiór. GIT umożliwia dotarcie do poszczególnych wersji konkretnych procedur, umożliwia opisywanie zmian komentarzami, umożliwia śledzenie historii aktualizacji.
