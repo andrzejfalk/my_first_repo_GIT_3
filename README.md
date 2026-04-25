@@ -6,3 +6,4 @@ Andrzej Falkowski
 
 nr słuchacza: 5356
 
+Praca z gałęziami i rozwiązywanie konfliktów.
