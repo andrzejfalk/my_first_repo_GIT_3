@@ -1,0 +1,5 @@
+00df8ab dodanie pliku wyniku diff
+a1317b6 czwarty commit: dodanie README
+c198d07 trzeci commit: po restore
+e7a7d6b drugi commit dodano 2 pliki status (1 i 2)
+6ba7479 pierwszy commit: dodanie plików 'version' i 'idea'
