@@ -6,3 +6,4 @@ Andrzej Falkowski
 
 nr słuchacza: 5356
 
+Tym wpisem chcemy spowodować konflikt.
