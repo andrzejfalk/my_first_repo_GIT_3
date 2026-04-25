@@ -1,0 +1,19 @@
+diff --git a/drugi_plik.txt b/drugi_plik.txt
+(wersje a i b pliku porównywane)
+new file mode 100644
+(to jest nowy plik: został dodany do repozytorium)
+index 00000 ...b231
+(hash starej i nowej wersji)
+--- /dev/null
+(plik nie istniał w starej wersji)
++++ b/drugi_plik.txt
+(to jest nowo utworzony plik)
+@@ -0,0 +1,2 @@
+(nagłówek hunku: w starej wersji nie było nic,
+a w nowej pojawiły się 2 linie od początku pliku)
++Lorem ipsum…+
+(to jest tekst dodany, który tworzy 2 linie w pliku od jego początku)
+diff --git a/ nowy_plik.txt b/nowy_plik.txt
+(porównywane różnice w starej i nowej wersji pliku nowy_plik.txt)
+@@ -0,0 +1 @@
+(zakres zmian: na początku plik był pusty, w modyfikacji dodano na początku 1 linię z tekstem "hello world")
