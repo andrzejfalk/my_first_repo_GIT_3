@@ -1,0 +1,47 @@
+commit 27dfbb3b98bae8ad4213f935e6a6a1e1dec1200a
+Author: Andrzej Falkowski <andrzej@falkowski>
+Date:   Sat Apr 25 20:02:42 2026 +0200
+
+    zmiana README.md na gałęzi test
+
+commit 2962f90b1e855e345dff7fa07a1e1e34f84076a0
+Author: Andrzej Falkowski <andrzej@falkowski>
+Date:   Sat Apr 25 19:50:28 2026 +0200
+
+    pliki log, ls ., status na gałęzi test
+
+commit 36065c82cad2a18420604815fc82755fe71d7ec7
+Author: Andrzej Falkowski <andrzej@falkowski>
+Date:   Sat Apr 25 19:22:40 2026 +0200
+
+    logi z historii rewizji
+
+commit 00df8ab234c76098e551e9e0ec3690bea3cf5758
+Author: Andrzej Falkowski <andrzej@falkowski>
+Date:   Sat Apr 25 18:27:51 2026 +0200
+
+    dodanie pliku wyniku diff
+
+commit a1317b6b5c0576fc1bce332517852cefcf7891b7
+Author: Andrzej Falkowski <andrzej@falkowski>
+Date:   Sat Apr 25 14:00:00 2026 +0200
+
+    czwarty commit: dodanie README
+
+commit c198d07f9e1f65095b711b491f21b2e4e989a1f0
+Author: Andrzej Falkowski <andrzej@falkowski>
+Date:   Sat Apr 25 13:53:45 2026 +0200
+
+    trzeci commit: po restore
+
+commit e7a7d6ba5028d1e6791828a42bcadc49ff5dfc0c
+Author: Andrzej Falkowski <andrzej@falkowski>
+Date:   Sat Apr 25 13:48:15 2026 +0200
+
+    drugi commit dodano 2 pliki status (1 i 2)
+
+commit 6ba7479bdf94cadfa062a6223e93d654229224ac
+Author: Andrzej Falkowski <andrzej@falkowski>
+Date:   Sat Apr 25 13:43:01 2026 +0200
+
+    pierwszy commit: dodanie plików 'version' i 'idea'
