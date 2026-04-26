@@ -1,0 +1,4 @@
+gitlab	git@gitlab.com:a.falkowski.ptmr/my_first_repo_GIT_3_GitLab.git (fetch)
+gitlab	git@gitlab.com:a.falkowski.ptmr/my_first_repo_GIT_3_GitLab.git (push)
+origin	git@github.com:andrzejfalk/my_first_repo_GIT_3.git (fetch)
+origin	git@github.com:andrzejfalk/my_first_repo_GIT_3.git (push)
