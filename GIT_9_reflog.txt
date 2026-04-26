@@ -1,0 +1,39 @@
+8f2b47d HEAD@{0}: reset: moving to HEAD~1
+ecd1213 HEAD@{1}: commit: dodanie pliku GIT_9_log
+8f2b47d HEAD@{2}: commit: po wykonaniu cherry-pick z gałęzi test
+57ebd1d HEAD@{3}: cherry-pick: po dadaniu pliku: GIT_8_cherry-pick.txt
+bbe1970 HEAD@{4}: checkout: moving from test to master
+cd4d492 HEAD@{5}: commit: po dadaniu pliku: GIT_8_cherry-pick.txt
+4f4b3af HEAD@{6}: checkout: moving from master to test
+bbe1970 HEAD@{7}: rebase (finish): returning to refs/heads/master
+bbe1970 HEAD@{8}: rebase (squash): po usunięciu stasha
+ae30f62 HEAD@{9}: rebase (start): checkout HEAD~2
+9b7a076 HEAD@{10}: rebase (abort): returning to refs/heads/master
+ae30f62 HEAD@{11}: rebase (start): checkout HEAD~2
+9b7a076 HEAD@{12}: rebase (finish): returning to refs/heads/master
+9b7a076 HEAD@{13}: rebase (start): checkout HEAD~2
+9b7a076 HEAD@{14}: commit: dodanie GIT_8_stan
+ae30f62 HEAD@{15}: commit: po usunięciu stasha
+ffa796a HEAD@{16}: merge test: Merge made by the 'ort' strategy.
+5389b1c HEAD@{17}: checkout: moving from test to master
+4f4b3af HEAD@{18}: commit: zapisanie historii repo w GIT_8_log
+27dfbb3 HEAD@{19}: checkout: moving from master to test
+5389b1c HEAD@{20}: commit: po utworzeniu stasha
+36afbde HEAD@{21}: reset: moving to HEAD
+36afbde HEAD@{22}: commit: dodanie pliku branch
+fb71c91 HEAD@{23}: commit (merge): po usunieciu konfliktu (edycja w notepad) pliku README.md
+5e632fe HEAD@{24}: checkout: moving from test to master
+27dfbb3 HEAD@{25}: commit: zmiana README.md na gałęzi test
+2962f90 HEAD@{26}: checkout: moving from master to test
+5e632fe HEAD@{27}: commit: modyfikacja README.md
+36065c8 HEAD@{28}: checkout: moving from test to master
+2962f90 HEAD@{29}: commit: pliki log, ls ., status na gałęzi test
+36065c8 HEAD@{30}: checkout: moving from master to test
+36065c8 HEAD@{31}: checkout: moving from 00df8ab234c76098e551e9e0ec3690bea3cf5758 to master
+00df8ab HEAD@{32}: checkout: moving from master to HEAD~1
+36065c8 HEAD@{33}: commit: logi z historii rewizji
+00df8ab HEAD@{34}: commit: dodanie pliku wyniku diff
+a1317b6 HEAD@{35}: commit: czwarty commit: dodanie README
+c198d07 HEAD@{36}: commit: trzeci commit: po restore
+e7a7d6b HEAD@{37}: commit: drugi commit dodano 2 pliki status (1 i 2)
+6ba7479 HEAD@{38}: commit (initial): pierwszy commit: dodanie plików 'version' i 'idea'
