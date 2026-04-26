@@ -1,0 +1,22 @@
+* 57ebd1d po dadaniu pliku: GIT_8_cherry-pick.txt
+* bbe1970 po usunięciu stasha
+*   ffa796a przyłączenie gałęzi 'test'
+|\  
+* | 5389b1c po utworzeniu stasha
+* | 36afbde dodanie pliku branch
+* |   fb71c91 po usunieciu konfliktu (edycja w notepad) pliku README.md
+|\ \  
+* | | 5e632fe modyfikacja README.md
+| | | * cd4d492 po dadaniu pliku: GIT_8_cherry-pick.txt
+| | |/  
+| | * 4f4b3af zapisanie historii repo w GIT_8_log
+| |/  
+| * 27dfbb3 zmiana README.md na gałęzi test
+| * 2962f90 pliki log, ls ., status na gałęzi test
+|/  
+* 36065c8 logi z historii rewizji
+* 00df8ab dodanie pliku wyniku diff
+* a1317b6 czwarty commit: dodanie README
+* c198d07 trzeci commit: po restore
+* e7a7d6b drugi commit dodano 2 pliki status (1 i 2)
+* 6ba7479 pierwszy commit: dodanie plików 'version' i 'idea'
