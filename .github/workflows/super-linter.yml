@@ -19,8 +19,9 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4branches:
-      - master
+        uses: actions/checkout@v4branches
+        branches:
+      - main
   pull_request:
     branches:
       - master
