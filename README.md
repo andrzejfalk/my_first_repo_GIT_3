@@ -1,12 +1,14 @@
-System kontroli wersji
+# Moje repozytorium Git
 
-repozytorium lokalne o nazwie my\_first\_repo\_GIT\_3
+Autor: **Andrzej Falkowski**  
+Numer słuchacza: *5356*
 
-Andrzej Falkowski
+## Informacje
 
-nr słuchacza: 5356
-Praca z gałęziami i rozwiązywanie konfliktów.
-===
+- Data: 2026-04-26  
+- Godzina: 12:00  
 
-Tym wpisem chcemy spowodować konflikt.
+## Przykład komendy
+
+`git init`
 
